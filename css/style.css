@@ -336,6 +336,7 @@ width: 543px;
     height: 4px;
     border-radius: 4px;
     margin-left: 214px;
+    margin-bottom: 53px;
 }
 #project_menu a{
     color: #7B7B7B;
@@ -354,4 +355,71 @@ width: 543px;
     left: 0;
     bottom: -23px;
     height: 4px;
+}
+.projectcard1{
+    
+}
+.projectimgcard1{
+    border-radius: 15px;
+    box-shadow: 0 4px 25px 15px rgba(218, 246, 235, 0.363);
+}
+.project_dics h2{
+    color: #1B1B1B;
+    font-weight: 600;font-size: 22px;
+    line-height: 30px;
+    text-align: center;
+}
+.project_dics p{
+    color: #7B7B7B;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 22px;
+    max-width: 267px;
+    text-align: center;
+      margin: 0 auto;
+}
+.project_btn a{
+    color: #fff;
+    padding: 14.5px 25px;
+    background: #06C279;
+    border-radius: 5px;
+
+}
+.project_btn{
+    margin-top: 47px;
+   margin-left: 535px;
+}
+#work{
+    background: #EEFFF9;
+    margin-top: 100px;
+    border-top-left-radius: 315px;
+    border-bottom-right-radius: 315px;
+}
+.workLeft{
+    padding-top: 206px;
+}
+.workLeft h3{
+    color: #1B1B1B;
+    font-weight: 600;
+    font-size: 45px;
+    line-height: 54px;
+    max-width: 396px;
+    padding-bottom: 20px;
+}
+.workLeft p{
+    color: #7B7B7B;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+max-width: 543px;
+}
+.projectwrapper{
+    margin-top: 70px;
+    margin-left: 163px;
+}
+.wordimgcard1 svg path{
+    fill: #06C279;
+}
+.workcard1 h4{
+    color: #fff;
 }
