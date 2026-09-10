@@ -417,9 +417,200 @@ max-width: 543px;
     margin-top: 70px;
     margin-left: 163px;
 }
+.workcard1{
+    background: #fff;
+    text-align: center;
+    padding: 40px 0;
+    box-shadow: 0 0 20px 2px rgba(0, 0, 0, 0.05) ;
+    border-radius: 15px;
+    margin-bottom: 40px;
+}
 .wordimgcard1 svg path{
     fill: #06C279;
 }
 .workcard1 h4{
-    color: #fff;
+    color: #1B1B1B;
+    font-weight: 600;
+    font-size: 18px;
+    padding-top: 15px;
+    /* border: 1px solid red; */
+}
+.workcard1 h2{
+    color: #1B1B1B;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 30px;
+    padding-bottom: 5px;
+}
+.workcard1:hover{
+    background: #7AE0B9;
+}
+.workcard1:hover svg path{
+    fill: #FFF;
+}
+.workcard1:hover h4{
+  color: #fff;
+}
+.workcard1:hover h2{
+  color: #fff;
+}
+.workcard3{
+    background: #fff;
+    text-align: center;
+    padding: 40px 0;
+    box-shadow: 0 0 20px 2px rgba(0, 0, 0, 0.05) ;
+    border-radius: 15px;
+}
+.wordimgcard3 svg path{
+    fill: #06C279;
+}
+.workcard3 h4{
+    color: #1B1B1B;
+    font-weight: 600;
+    font-size: 18px;
+    padding-top: 15px;
+    /* border: 1px solid red; */
+}
+.workcard3 h2{
+    color: #1B1B1B;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 30px;
+}
+.workcard3:hover{
+    background: #7AE0B9;
+}
+.workcard3:hover svg path{
+    fill: #FFF;
+}
+.workcard3:hover h4{
+  color: #fff;
+}
+.workcard3:hover h2{
+  color: #fff;
+}
+.workcard2{
+    background: #fff;
+    text-align: center;
+    padding: 40px 0;
+    box-shadow: 0 0 20px 2px rgba(0, 0, 0, 0.05) ;
+    border-radius: 15px;
+    margin-bottom: 40px;
+    margin-top: 95px;
+}
+.wordimgcard2 svg path{
+    fill: #06C279;
+}
+.workcard2 h4{
+    color: #1B1B1B;
+    font-weight: 600;
+    font-size: 18px;
+    padding-top: 15px;
+ 
+}
+.workcard2 h2{
+    color: #1B1B1B;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 30px;
+}
+.workcard2:hover{
+    background: #7AE0B9;
+}
+.workcard2:hover svg path{
+    fill: #FFF;
+}
+.workcard2:hover h4{
+  color: #fff;
+}
+.workcard2:hover h2{
+  color: #fff;
+}
+.workcard4{
+    background: #fff;
+    text-align: center;
+    padding: 40px 0;
+    box-shadow: 0 0 20px 2px rgba(0, 0, 0, 0.05) ;
+    border-radius: 15px;
+    margin-bottom: 78px;
+}
+.wordimgcard4 svg path{
+    fill: #06C279;
+}
+.workcard4 h4{
+    color: #1B1B1B;
+    font-weight: 600;
+    font-size: 18px;
+    padding-top: 15px;
+}
+.workcard4 h2{
+    color: #1B1B1B;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 30px;
+}
+.workcard4:hover{
+    background: #7AE0B9;
+}
+.workcard4:hover svg path{
+    fill: #FFF;
+}
+.workcard4:hover h4{
+  color: #fff;
+}
+.workcard4:hover h2{
+  color: #fff;
+}
+#client{
+    margin: 100px 0;
+}
+.client_title{
+    margin: 0 auto;
+}
+.client_title h5{
+    color: #1B1B1B;
+    font-weight: 600;
+    font-size: 45px;
+    line-height: 54px;
+    text-align: center;
+}
+.clientcard1{
+    text-align: center;
+  
+}
+.client_card1Img{
+    margin: 0 auto;
+}
+.client_desc h3{
+margin-top: 15px;
+color: #1B1B1B;
+font-weight: 600;
+font-size: 24px;
+line-height: 30px;
+}
+.icon i{
+    color: #FAB93C;
+}
+.client_desc p{
+    max-width: 330px;
+    color: #7B7B7B;
+    margin: 0 auto;
+}
+.identity{
+    margin-top: 15px;
+    /* margin: 0 auto; */
+    text-align: center;
+}
+.identity h6{
+   color: #1B1B1B;
+   font-weight: 600;
+   font-size: 18px;
+   margin-bottom: 0;
+   /* line-height: 30px; */
+}
+.identity p{
+    color: #717171;
+    font-weight: 400;
+    font-size: 14px;
+ /* line-height: 24px; */
 }
